@@ -17,7 +17,7 @@ layout: default
               <p class="lead">Introduce the project briefly.</p>
         </div>
         <div class="col-md-6 text-center">
-            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="58%">
+            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="78%">
         </div>
     </div>
     <hr>
