@@ -5,25 +5,16 @@ layout: default
 <div class="header-container jumbotron">
     <div class="container">
         <h1>Comprehensive Assessment of Jailbreak Attacks Against LLMs</h1>
-        <p>Simple and modern design for publishing blog posts, documentation and many more things about your project.
-          You can now clone and start to create a website for your project like this one.</p>
-        <p><a class="btn btn-primary btn-lg" href="{{ "/docs/home/" | relative_url }}" role="button">Learn more</a></p>
+        <p>TL;DR: This study presents the first large-scale, comprehensive and unified measurement of various jailbreak attacks against LLMs, revealing the need for improved alignment of LLM policies and countermeasures, emphasizing the necessity of evaluating different jailbreak methods.</p>
+        <p><a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2402.05668" role="button">Learn more</a></p>
     </div>
 </div>
 
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h2 class="header-light regular-pad">What is Jekyll?</h2>
-              <p class="lead">Jekyll is a simple, blog-aware, static site generator. It takes a template
-              directory containing raw text files in various formats, runs it through
-              a converter (like <a href="https://daringfireball.net/projects/markdown/">Markdown</a>)
-              and our <a href="https://github.com/Shopify/liquid/wiki">Liquid</a> renderer, and
-              spits out a complete, ready-to-publish static website suitable
-              for serving with your favorite web server. Jekyll also happens to be the engine
-              behind <a href="https://pages.github.com">GitHub Pages</a>, which means you can use Jekyll
-              to host your project’s page, blog, or website from GitHub’s servers <strong>for
-              free</strong>.</p>
+            <h2 class="header-light regular-pad">Abstract</h2>
+              <p class="lead">Misuse of the Large Language Models (LLMs) has raised widespread concern. To address this issue, safeguards have been taken to ensure that LLMs align with social ethics. However, recent findings have revealed an unsettling vulnerability bypassing the safeguards of LLMs, known as jailbreak attacks. By applying techniques, such as employing role-playing scenarios, adversarial examples, or subtle subversion of safety objectives as a prompt, LLMs can produce an inappropriate or even harmful response. While researchers have studied several categories of jailbreak attacks, they have done so in isolation. To fill this gap, we present the first large-scale measurement of various jailbreak attack methods. We concentrate on 13 cutting-edge jailbreak methods from four categories, 160 questions from 16 violation categories, and six popular LLMs. Our extensive experimental results demonstrate that the optimized jailbreak prompts consistently achieve the highest attack success rates, as well as exhibit robustness across different LLMs. Some jailbreak prompt datasets, available from the Internet, can also achieve high attack success rates on many LLMs, such as ChatGLM3, GPT-3.5, and PaLM2. Despite the claims from many organizations regarding the coverage of violation categories in their policies, the attack success rates from these categories remain high, indicating the challenges of effectively aligning LLM policies and the ability to counter jailbreak attacks. We also discuss the trade-off between the attack performance and efficiency, as well as show that the transferability of the jailbreak prompts is still viable, becoming an option for black-box models. Overall, our research highlights the necessity of evaluating different jailbreak methods. We hope our study can provide insights for future research on jailbreak attacks and serve as a benchmark tool for evaluating them for practitioners.</p>
         </div>
         <div class="col-md-6 text-center">
             <img src="{{ "/assets/img/jekyll-dark.png" | relative_url }}" alt="Jekyll logo" class="img-responsive">
