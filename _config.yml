@@ -3,11 +3,10 @@
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
 
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Comprehensive Assessment of Jailbreak Attacks Against LLMs
+email: junjie.chu@cispa.de
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  The website for Comprehensive Assessment of Jailbreak Attacks Against LLMs.
 lang: en-US
 
 baseurl: "/Public_Comprehensive_Assessment_Jailbreak/" # the subpath of your site, e.g. /blog/
