@@ -17,24 +17,24 @@ layout: default
               <p class="lead">Introduce the project briefly.</p>
         </div>
         <div class="col-md-6 text-center">
-            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive">
+            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="58%">
         </div>
     </div>
     <hr>
     <div class="row">
         <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i></h1>
+            <h1 class="text-center"><i class="fa-solid fa-sitemap" aria-hidden="true"></i></h1>
             <h3 class="text-center">Jailbreak Taxonomy</h3>
             <p>Placeholder
             </p>
         </div>
         <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-cogs" aria-hidden="true"></i></h1>
+            <h1 class="text-center"><i class="fa-solid fa-file-shield" aria-hidden="true"></i></h1>
             <h3 class="text-center">Unified Usage Policy</h3>
             <p>Placeholder</p>
         </div>
         <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
+            <h1 class="text-center"><i class="fa-solid fa-gears" aria-hidden="true"></i></h1>
             <h3 class="text-center">Unified Settings</h3>
             <p>Placeholder</p>
         </div>
