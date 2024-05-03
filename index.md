@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet">
+
 <div class="header-container jumbotron">
     <div class="container">
         <h1>Comprehensive Assessment of Jailbreak Attacks Against LLMs</h1>
