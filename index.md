@@ -16,7 +16,13 @@ layout: default
     <div class="row">
         <div class="col-md-6">
             <h2 class="header-light regular-pad" style="font-size: 40px;">Abstract</h2>
-              <p class="lead">Introduce the project briefly.</p>
+              <p class="lead">
+              <i>Jailbreak attacks</i> aim to bypass the safeguards of LLMs.
+              While researchers have studied different jailbreak attacks in depth, they have done so in isolation - either with unaligned experiment settings or comparing a limited range of methods.
+              To fill this gap, we present the first large-scale measurement of various jailbreak attack methods. 
+              We collect 14 cutting-edge jailbreak methods and establish a jailbreak attack taxonomy.
+              We then conduct a unified and impartial assessment of attack effectiveness based on six popular censored LLMs and 160 questions from 16 violation categories.
+              </p>
         </div>
         <div class="col-md-6 text-center">
             <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="78%">
