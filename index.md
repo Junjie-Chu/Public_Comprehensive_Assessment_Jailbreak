@@ -24,8 +24,8 @@ layout: default
               We then conduct a unified and impartial assessment of attack effectiveness based on six popular censored LLMs and 160 questions from 16 violation categories.
               </p>
         </div>
-        <div class="col-md-6 text-center">
-            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="78%">
+        <div class="col-md-6 text-center" style="position: relative;">
+            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="78%" style="position: absolute; bottom: 20px; right: 20px;">
         </div>
     </div>
     <hr>
