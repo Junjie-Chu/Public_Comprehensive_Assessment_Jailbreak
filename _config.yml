@@ -28,6 +28,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 exclude:
   - Gemfile
