@@ -15,7 +15,7 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h2 class="header-light regular-pad" style="font-size: 45px;">Abstract</h2>
+            <h2 class="header-light regular-pad" style="font-size: 40px;">Abstract</h2>
               <p class="lead">Introduce the project briefly.</p>
         </div>
         <div class="col-md-6 text-center">
