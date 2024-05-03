@@ -25,7 +25,7 @@ layout: default
               </p>
         </div>
         <div class="col-md-6 text-center">
-            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="78%" style="margin-top: 35px; margin-left: 35px;">
+            <img src="{{ "/assets/img/overview.png" | relative_url }}" alt="Overview" class="img-responsive" width="80%" style="margin-top: 40px; margin-left: 40px;">
         </div>
     </div>
     <hr>
