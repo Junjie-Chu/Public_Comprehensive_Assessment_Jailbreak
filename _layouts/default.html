@@ -16,6 +16,14 @@
 
     {% include footer.html %}
     {% include js_files.html %}
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const tables = document.querySelectorAll('table');
+        tables.forEach(function(table) {
+          table.classList.add('table', 'table-striped'); // 确保也添加了 'table' 类以应用基本的Bootstrap表格样式
+        });
+      });
+    </script>
 </body>
 
 </html>
