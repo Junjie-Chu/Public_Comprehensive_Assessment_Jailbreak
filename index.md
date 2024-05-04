@@ -44,8 +44,7 @@ sectionid: home
             <h1 class="text-center"><i class="fa-solid fa-file-shield" aria-hidden="true"></i></h1>
             <h3 class="text-center">Unified Usage Policy</h3>
             <p>
-              We collect the usage policies from five major LLM-related service providers (Google, OpenAI, Meta, Amazon, and Microsoft).
-              Unlike the general ones, we summarize our unified policy by explicit coverage to find a clear common feature within the same category.
+              We collect and summarize the usage policies from five major LLM-related service providers (Google, OpenAI, Meta, Amazon, and Microsoft).
             </p>
         </div>
         <div class="col-sm-4">
