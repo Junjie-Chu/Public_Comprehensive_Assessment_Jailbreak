@@ -59,7 +59,7 @@ Welcome to the leaderboard page.
             <td>✓</td>
             <td>Black-Box</td>
             <td>0.65</td>
-            <td>0.2</td>
+            <td>0.20</td>
             <td>0.89</td>
             <td>0.53</td>
             <td>0.51</td>
@@ -110,7 +110,7 @@ Welcome to the leaderboard page.
             <td>AutoDAN</td>
             <td>✓</td>
             <td>White-Box</td>
-            <td>0.9</td>
+            <td>0.90</td>
             <td>0.58</td>
             <td>0.98</td>
             <td>/</td>
@@ -136,7 +136,7 @@ Welcome to the leaderboard page.
             <td>COLD</td>
             <td>✓</td>
             <td>White-Box</td>
-            <td>0.5</td>
+            <td>0.50</td>
             <td>0.45</td>
             <td>0.42</td>
             <td>/</td>
@@ -166,7 +166,7 @@ Welcome to the leaderboard page.
             <td>0.48</td>
             <td>0.76</td>
             <td>0.62</td>
-            <td>0.8</td>
+            <td>0.80</td>
             <td>0.78</td>
             <td>0.66</td>
         </tr>
@@ -181,7 +181,7 @@ Welcome to the leaderboard page.
             <td>0.81</td>
             <td>0.71</td>
             <td>0.74</td>
-            <td>0.7</td>
+            <td>0.70</td>
         </tr>
         <tr>
             <td>Optimization-Based</td>
@@ -191,7 +191,7 @@ Welcome to the leaderboard page.
             <td>0.82</td>
             <td>0.11</td>
             <td>0.88</td>
-            <td>0.9</td>
+            <td>0.90</td>
             <td>0.54</td>
             <td>0.76</td>
             <td>0.67</td>
@@ -201,7 +201,7 @@ Welcome to the leaderboard page.
             <td>Generation Exploitation</td>
             <td>✗</td>
             <td>White-Box</td>
-            <td>0.8</td>
+            <td>0.80</td>
             <td>0.72</td>
             <td>0.95</td>
             <td>/</td>
