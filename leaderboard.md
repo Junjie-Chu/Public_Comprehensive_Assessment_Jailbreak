@@ -1,5 +1,6 @@
 ---
 title: "Leaderboard"
+permalink: /leaderboard
 layout: default
 ---
 
