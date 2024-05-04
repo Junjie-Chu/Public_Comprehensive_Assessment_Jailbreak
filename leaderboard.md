@@ -4,9 +4,9 @@ permalink: /leaderboard
 layout: default
 ---
 
-# Leaderboard
+## Leaderboard
 
-<div style="width: 60%; margin: auto;">
+<div style="width: 61.8%; margin: auto;">
   Welcome to the leaderboard page.
   <table id="example" class="display" style="width:100%">
       <thead>    
