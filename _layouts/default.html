@@ -20,7 +20,10 @@
       document.addEventListener('DOMContentLoaded', function () {
         const tables = document.querySelectorAll('table');
         tables.forEach(function(table) {
-          table.classList.add('table', 'table-striped'); // 确保也添加了 'table' 类以应用基本的Bootstrap表格样式
+          table.classList.add('table', 'table-striped'); // 为表格添加Bootstrap类
+          table.style.width = '80%'; // 设置表格宽度为80%
+          table.style.marginLeft = 'auto';  // 使表格居中
+          table.style.marginRight = 'auto'; // 使表格居中
         });
       });
     </script>
