@@ -8,8 +8,11 @@ sectionid: home
 <div class="header-container jumbotron">
     <div class="container">
         <h1>Comprehensive Assessment of Jailbreak Attacks Against LLMs</h1>
-        <p>TL;DR: This study presents the first large-scale, comprehensive and unified measurement of various jailbreak attacks against LLMs, revealing the need for improved alignment of LLM policies and countermeasures, emphasizing the necessity of evaluating different jailbreak methods.</p>
-        <p><a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2402.05668" role="button">Learn more</a></p>
+        <p>
+        </p>
+        <p>
+          <a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2402.05668" role="button">Learn more</a>
+        </p>
     </div>
 </div>
 
