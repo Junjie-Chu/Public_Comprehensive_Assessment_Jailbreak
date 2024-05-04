@@ -1,7 +1,7 @@
 ---
 title: "Leaderboard"
 permalink: /leaderboard
-layout: page
+layout: default
 ---
 
 <!-- 首先引入 jQuery 库 -->
