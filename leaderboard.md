@@ -9,12 +9,17 @@ layout: default
 <!-- DataTables -->
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+<script>
+  $(document).ready( function () {
+    $('#example').DataTable();
+  });
+</script>
 
 # Leaderboard
 
 Welcome to the leaderboard page.
 
-<table id="example" class="display" style="width:100%">
+<table id="example" class="display" style="width:80%">
     <thead>    
         <tr>
             <td>Jailbreak Taxonomy</td>
