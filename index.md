@@ -9,6 +9,7 @@ sectionid: home
     <div class="container">
         <h1>Comprehensive Assessment of Jailbreak Attacks Against LLMs</h1>
         <p>
+          <br>
         </p>
         <p>
           <a class="btn btn-primary btn-lg" href="https://arxiv.org/abs/2402.05668" role="button">Learn more</a>
