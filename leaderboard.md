@@ -1,7 +1,7 @@
 ---
 title: "Leaderboard"
 permalink: /leaderboard
-layout: page
+layout: docs
 ---
 
 <div style="width: 61.8%; margin: auto;">
