@@ -34,18 +34,26 @@ sectionid: home
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa-solid fa-sitemap" aria-hidden="true"></i></h1>
             <h3 class="text-center">Jailbreak Taxonomy</h3>
-            <p>Placeholder
+            <p>
+              We classify the methods based on two criteria: 
+              (1) whether the original forbidden question is modified;
+              (2) how these modified prompts are generated in the method.
             </p>
         </div>
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa-solid fa-file-shield" aria-hidden="true"></i></h1>
             <h3 class="text-center">Unified Usage Policy</h3>
-            <p>Placeholder</p>
+            <p>
+              We collect the usage policies from five major LLM-related service providers (Google, OpenAI, Meta, Amazon, and Microsoft).
+              Unlike the general ones, we summarize our unified policy by explicit coverage to find a clear common feature within the same category.
+            </p>
         </div>
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa-solid fa-gears" aria-hidden="true"></i></h1>
             <h3 class="text-center">Unified Settings</h3>
-            <p>Placeholder</p>
+            <p>
+              We align the experimental settings, especially the number of steps in the optimization process, to provide an unbiased and fair experimental setup as much as possible.
+            </p>
         </div>
     </div>
 </div>
