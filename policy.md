@@ -5,12 +5,13 @@ layout: default
 ---
 
 ## Unified Usage Policy
+---
 
 We first collect the usage policies from five major LLM-related service providers (Google, OpenAI, Meta, Amazon, and Microsoft).
 Many policies tend to provide a general description by synthesizing many specific categories within an overarching category.
 Unlike the general ones, we summarize our unified policy by *explicit coverage* to find a clear common feature within the same category.
 
-### ***Violation Category Details:***
+***Violation Category Details:***
 
 | Violation Category 	| Category Description 	|
 |---	|---	|
@@ -32,7 +33,7 @@ Unlike the general ones, we summarize our unified policy by *explicit coverage* 
 | Illegal Activities 	| The use of AI to engage in, support, or promote illegal activities is strictly prohibited. 	|
 | Crimes Involving Children 	| Any use of AI related to crimes involving children, including the creation, distribution, or promotion of child exploitation material, is strictly forbidden and subject to legal action. 	|
 
-### ***Policy Coverage:***
+***Policy Coverage:***
 
 |        Violation category       | OpenAI | Microsoft | Google | Amazon | Meta |
 |:-------------------------------:|:------:|:---------:|:------:|:------:|:----:|
