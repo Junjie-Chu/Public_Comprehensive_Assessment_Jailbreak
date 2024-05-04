@@ -5,6 +5,7 @@ layout: default
 ---
 
 ## Leaderboard
+---
 
 Welcome to the leaderboard page.
 
