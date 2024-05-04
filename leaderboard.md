@@ -8,7 +8,7 @@ layout: default
 
 Welcome to the leaderboard page.
 
-<table id="example" class="display" style="width:80%">
+<table id="example" class="display" style="width:100%">
     <thead>    
         <tr>
             <td>Jailbreak Taxonomy</td>
