@@ -1,10 +1,8 @@
 ---
 title: "Leaderboard"
 permalink: /leaderboard
-layout: default
+layout: page
 ---
-
-## Leaderboard
 
 <div style="width: 61.8%; margin: auto;">
   Welcome to the leaderboard page.
