@@ -33,6 +33,7 @@ $(function () {
 });
 
 $(document).ready(function() {
+    $.noConflict();
     $('#example').DataTable({
         // 在这里加入DataTable的配置选项
         "paging":   true, // 开启表格的分页功能
