@@ -2,6 +2,7 @@
 title: "Leaderboard"
 permalink: /leaderboard
 layout: default
+sectionid: leaderboard
 ---
 
 ## Leaderboard
