@@ -4,7 +4,7 @@ permalink: /leaderboard
 layout: default
 ---
 
-### Leaderboard
+## Leaderboard
 
 Welcome to the leaderboard page.
 
