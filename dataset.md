@@ -8,7 +8,7 @@ sectionid: dataset
 ## Forbidden Question Dataset
 ---
 
-[Here](https://github.com/Junjie-Chu/Best_Jailbreak_Way_Public/tree/main/datasets) we provide the forbidden question dataset we build (based on two previous works), it contains 160 questions from 160 violated categories.
+[Here](https://github.com/Junjie-Chu/CJA_Comprehensive_Jailbreak_Assessment/tree/main/forbidden_questions) we provide the forbidden question dataset we build (based on two previous works), it contains 160 questions from 160 violated categories.
 In addition, we also provide the corresponding targets -- which is useful for some jailbreak methods, such as GCG.
 
 If you find them useful, please consider cite the following:
